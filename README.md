@@ -8,8 +8,13 @@ both the pieces can be printed in a single print job.
 
 # Results
 
-Expectation:
+## Expectation:
 ![OpenSCAD render](hybrid.png)
 
-Reality:
+## Reality:
 ![3D printed and assembled](hybrid.jpg)
+
+## Notes
+
+* The structure is held together using small drops of superglue at all the
+  interfaces of wood and plastic.
